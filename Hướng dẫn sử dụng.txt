@@ -1,0 +1,19 @@
+Khởi động ứng dụng:
+- Chạy tệp thực thi (.exe) được đóng gói bởi PyInstaller.
+- Cửa sổ đăng nhập xuất hiện với hình nền và tiêu đề.
+
+Đăng nhập/Đăng ký:
+- Đăng nhập: Nhập tài khoản, mật khẩu, chọn tab "Đăng nhập" và nhấn nút "Đăng nhập".
+- Đăng ký: Chuyển sang tab "Đăng ký", nhập thông tin (tài khoản, mật khẩu, số điện thoại, email, vai trò). Nếu chọn vai trò "admin", nhập mã admin (admin123). Nhấn "Đăng ký".
+- Quên mật khẩu: Chuyển sang tab "Quên mật khẩu", nhập tài khoản và email/số điện thoại, nhấn "Gửi mã xác nhận", nhập mã và mật khẩu mới, nhấn "Đặt lại mật khẩu".
+
+Giao diện quản trị viên:
+- Chọn tab tương ứng (xe, tài xế, nhân viên, vé, bãi đỗ, người dùng).
+- Nhập thông tin vào form, nhấn "Thêm", "Cập nhật", hoặc "Xóa".
+- Nhấn vào dòng trong bảng (Treeview) để điền thông tin vào form.
+- Nhấn "Đăng xuất" để quay lại màn hình đăng nhập.
+ 
+Giao diện người dùng:
+- Tab Đặt vé: Nhập thông tin xe, tài xế, chọn loại vé và bãi đỗ, nhấn "Đặt vé". Xem bảng giá vé để tham khảo. Nhấn "Hủy vé" để xóa vé đã chọn.
+- Tab Bãi đỗ: Nhấn "Làm mới" để cập nhật danh sách, hoặc "Hiển thị bãi còn trống". Nhấn vào dòng trong bảng để xem chi tiết bãi đỗ.
+- Nhấn "Đăng xuất" để quay lại màn hình đăng nhập.
