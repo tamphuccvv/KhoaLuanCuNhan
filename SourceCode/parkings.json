@@ -1,0 +1,22 @@
+[
+    {
+        "status": "Còn chỗ",
+        "location": "Bãi A",
+        "max_capacity": 2,
+        "current_vehicles": [
+            "V001"
+        ]
+    },
+    {
+        "status": "Còn chỗ",
+        "location": "Bãi B",
+        "max_capacity": 5,
+        "current_vehicles": []
+    },
+    {
+        "status": "Còn chỗ",
+        "location": "Bãi C",
+        "max_capacity": 10,
+        "current_vehicles": []
+    }
+]

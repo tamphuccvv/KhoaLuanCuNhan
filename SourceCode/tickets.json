@@ -1,0 +1,11 @@
+[
+    {
+        "ticket_id": "T001",
+        "driver_id": "D001",
+        "vehicle_id": "V001",
+        "arrival_time": "2025-06-01 12:10:54",
+        "departure_time": "2025-06-02 12:10:54",
+        "price": 50000,
+        "ticket_type": "Vé ngày"
+    }
+]
